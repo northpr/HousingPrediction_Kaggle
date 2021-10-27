@@ -75,3 +75,4 @@ my_model.fit(x_train_scaled, y_train,
              verbose=False)
 print(my_model.score(x_train_scaled,y_train))
 ```
+Furthermore please check my .ipynb and thanks for viewing
